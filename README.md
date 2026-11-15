@@ -31,13 +31,4 @@
 | [tiny-secondhand-shopping-platform](https://github.com/kingsthegarden/tiny-secondhand-shopping-platform) | 개인 · 시큐어 코딩 과제 | Flask, Socket.IO, SQLAlchemy |
 | [kr-vulhub](https://github.com/kingsthegarden/kr-vulhub) | Fork · 취약 환경 구성/검증 | Docker |
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kingsthegarden&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsthegarden&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingsthegarden&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
